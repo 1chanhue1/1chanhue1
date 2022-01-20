@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chanhue467)](https://solved.ac/chanhue467)
 
+[![python](https://img.shields.io/badge/파이썬 문제풀이(기본)-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/1chanhue1/baekjoon-Algorithm-python-)
 [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
