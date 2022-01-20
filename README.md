@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![CSS](https://img.shields.io/badge/JavaScript-1572B6?style=flat-square&logo=css&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![CSS](https://img.shields.io/badge/JavaScript-1572B6?style=flat-square&logo=CSS3&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 
