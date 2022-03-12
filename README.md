@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chanhue467)](https://solved.ac/chanhue467)
 
-백준 알고리즘 연습
 [![python](https://img.shields.io/badge/python-square&logo=html5&logoColor=black)](https://github.com/1chanhue1/baekjoon-Algorithm-python-)
 
 
