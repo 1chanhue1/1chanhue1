@@ -1,4 +1,5 @@
 # KIM CHAN HUE  👋
+/[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chanhue467)](https://solved.ac/chanhue467)
 
 <!--
 **1chanhue1/1chanhue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chanhue467)](https://solved.ac/chanhue467)
 
 [![python](https://img.shields.io/badge/python-square&logo=html5&logoColor=black)](https://github.com/1chanhue1/baekjoon-Algorithm-python-)
 
