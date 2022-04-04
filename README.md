@@ -1,5 +1,4 @@
 # KIM CHAN HUE  👋
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chanhue467)](https://solved.ac/chanhue467)
 
 <!--
 **1chanhue1/1chanhue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
