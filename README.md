@@ -204,10 +204,38 @@
 
 
 
+## 5. 트러블 슈팅
+
+<details>
+  <summary>
+    추가하지 않은 광고 ID 권한이 포함되어있는 경우  </summary> 
+  
+  ### ⛔️문제사항
+  ![image](https://github.com/user-attachments/assets/0a7935b4-85e6-45da-a078-8f5ca926d750)
 
 
 
+구글 배포를 하려고 aab 파일을 등록해놓고 보니 광고를 사용하지 않음에도 이러한 에러가 나왔다. 분명 우리 Manifest 파일에는 광고 권한을 기재하지 않았는데도 '예'로 응답하라고 한다!
 
+### ✅ 해결방안
+
+**Firebase crashlytics**를 앱에 연동했거나, **analytics**를 연동했다면 광고 권한이 자동으로 들어간다고 한다. 우리는 Firebase를 적극적으로 활용한 경우이기 때문에 아무래도 광고 권한이 들어간 모양이다.
+
+'예'로 응답하고 아래 체크박스에서 애널리틱스로 체크해준 뒤 심사에 맡기면 된다.
+</details>
+
+
+<details>
+  <summary>
+    ❓   </summary> 
+  
+</details>
+
+<details>
+  <summary>
+    ❓   </summary> 
+  
+</details>
 
 
 
