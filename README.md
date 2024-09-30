@@ -1,4 +1,4 @@
-# ![image](https://github.com/nbc-final-team2/ddaraogae/assets/89888486/172852ec-51ac-4d90-b90e-42935fc73da5)
+# ![image](https://github.com/user-attachments/assets/381b14c1-ca31-46fc-b8c5-18f6a6098e2f)
 
 
 # 🐕 Ddaraogae(따라오개)
