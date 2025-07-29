@@ -1,4 +1,4 @@
-sequenceDiagram
+```sequenceDiagram
     participant 사용자
     participant UploadManager
     participant EventQueue
@@ -20,3 +20,4 @@ sequenceDiagram
     LicenseModule-->>EventQueue: LICENSE_END 이벤트 등록
     EventLooper->>Dashboard: STATUS_UPDATE 이벤트 전달
     Dashboard-->>사용자: 처리 현황 출력
+```
