@@ -1,4 +1,5 @@
-```sequenceDiagram
+```mermaid
+sequenceDiagram
     participant 사용자
     participant UploadManager
     participant EventQueue
